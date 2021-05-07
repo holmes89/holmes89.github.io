@@ -1,0 +1,12 @@
+#+TITLE: ChickareeDB Project
+#+INDEX: Redis Clone
+#+INDEX: Distributed System
+#+INDEX: ChickareeDB
+
+* Overview of the Idea
+Use Redis [[https://redis.io/topics/protocol][Protocol]] as the basis in creating a distributed system written in Go. I plan on using [[https://github.com/boltdb/bolt][boltdb]] as the underlying KV store.
+
+* Things to Learn
+
+- Managing protobuf with Bazel
+- Distributed system development

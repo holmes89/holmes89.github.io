@@ -1,0 +1,11 @@
+#+TITLE: Dynamo DB
+#+INDEX: Distributed System
+#+INDEX: DynamoDB
+
+* Books
+#+INDEX: Books
+-  [[https://www.dynamodbbook.com/][The Dynamo Book]]
+
+* Ideas
+
+- Build a distributed system project on the DynamoDB Protocol
