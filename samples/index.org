@@ -1,6 +1,8 @@
 #+TITLE: Sub Page
+#+FILETAGS: :project:rust:
 
-* This is a header
+* This is a header :fun:
+
 
 This is a sub page
 
