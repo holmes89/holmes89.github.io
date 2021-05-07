@@ -16,7 +16,7 @@
          :html-html5-fancy t
          :html-head-include-scripts nil
          :html-head-include-default-style nil
-         :html-head "<link rel=\"stylesheet\" href=\"static/css/org.css\">"
+         :html-head "<link rel=\"stylesheet\" href=\"/static/css/org.css\">"
          :publishing-directory "docs"
          :publishing-function org-html-publish-to-html)
         ("wiki-static"
