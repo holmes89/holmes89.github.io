@@ -1,5 +1,6 @@
 #+TITLE: Sub Page
 #+FILETAGS: :project:rust:
+#+INDEX: test
 
 * This is a header :fun:
 
