@@ -15,7 +15,9 @@ jobs:
           version: 27.1
       - name: Build
         run: |
-          make build
+          pwd
+          ls
+          emacs -batch -l 'build/publish-doc.el' --eval '(org-publish "wiki")'
       
       - name: Commit Changes
         run: |
