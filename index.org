@@ -1,5 +1,6 @@
 #+TITLE: Personal Wiki
+#+FILETAGS: :Projects:
 
-This is a collection of my notes, thoughts, and ideas.
+This is a collection of my notes, thoughts, and ideas
 
-
+#+INCLUDE: "theindex.inc"
