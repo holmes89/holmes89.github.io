@@ -8,5 +8,6 @@
          :base-directory "~/personal/holmes89.github.io/"
          :base-extension "org"
          :recursive t
+         :makeindex t
          :publishing-directory "~/personal/holmes89.github.io/docs"
          :publishing-function org-html-publish-to-html)))

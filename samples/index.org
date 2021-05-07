@@ -3,13 +3,12 @@
 #+INDEX: test
 
 * This is a header :fun:
-
+#+INDEX: fun
 
 This is a sub page
 
 ** This is a sub header
 
 Lets see how this looks
-
 * Hope this is something
 thought it was something
