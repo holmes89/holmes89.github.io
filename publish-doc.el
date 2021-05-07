@@ -5,9 +5,9 @@
 
 (setq org-publish-project-alist
       `(("wiki"
-         :base-directory "~/personal/holmes89.github.io/"
+         :base-directory "$PWD"
          :base-extension "org"
          :recursive t
          :makeindex t
-         :publishing-directory "~/personal/holmes89.github.io/docs"
+         :publishing-directory "$PWD/docs"
          :publishing-function org-html-publish-to-html)))
