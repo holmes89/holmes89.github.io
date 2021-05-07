@@ -3,3 +3,13 @@
 
 * Resources
 - [[https://github.com/kanaka/mal/blob/master/process/guide.md#step0][MAL]]
+
+* Enhancements
+- Need to work on EOF issue for contiuation of list processing
+- Better input handling for REPL, maybe use [[https://github.com/peterh/liner][Liner]] or [[https://github.com/c-bata/go-prompt][Go Prompt]]
+- History buffer 
+- Make sure compatable with Little Schemer Text
+
+* Long Term Goal
+I want to be able to follow the "Little" Book series (Schemer, Reasoned Schemer, Prover, etc) with my own Lisp.
+

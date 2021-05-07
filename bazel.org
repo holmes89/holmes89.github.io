@@ -1,0 +1,16 @@
+#+TITLE: Bazel
+#+INDEX: Bazel
+
+* Links
+
+- [[https://github.com/sayrer/bazel-lesson-1][Bazel Lessons]]
+- [[https://filipnikolovski.com/posts/managing-go-monorepo-with-bazel/][Managing a Go Monorepo with Bazel]]
+- [[https://github.com/bazelbuild/bazel-gazelle][Bazel-Gazelle]]
+- [[https://medium.com/@tduble94/create-go-monorepo-with-go-modules-and-bazel-95f00cf571d3][Create Go Monorepo with Go-modules and Bazel]]
+- [[https://chrislovecnm.com/golang/bazel/bazel-hello-world/][Bazel Golang Hello World]]
+- [[https://github.com/bazelbuild/rules_docker][Docker Rules]]
+- [[https://rotemtam.com/2020/10/30/bazel-building-cgo-bindings/][Building a Cgo Dependent Golang Library with Bazel]]
+- [[https://github.com/bazelbuild/rules_go][Rules Go]]
+- [[https://jin.crypt.sg/articles/bazel-in-5-minutes-genrule.html][5 minute guide to Bazel, Part 2: Command lines and tools]]
+- [[https://github.com/atlassian/bazel-tools/tree/master/golangcilint][GolangCI Lint Rules]]
+- [[https://eng.uber.com/go-monorepo-bazel/][Building Uber’s Go Monorepo with Bazel]]

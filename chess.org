@@ -1,0 +1,9 @@
+#+TITLE: Chess Programming
+#+INDEX: Chess Programming
+
+* Idea
+Build a simple chess programming application in Go using UI library. Give ability to do networked play using Pion. 
+
+* Links
+
+-
