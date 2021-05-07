@@ -17,6 +17,7 @@
          :html-head-include-scripts nil
          :html-head-include-default-style nil
          :html-head "<link rel=\"stylesheet\" href=\"/static/css/org.css\">"
+         :html-preamble "<a href=\"/\">Home</a>" 
          :publishing-directory "docs"
          :publishing-function org-html-publish-to-html)
         ("wiki-static"

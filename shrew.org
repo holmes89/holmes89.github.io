@@ -1,0 +1,5 @@
+#+TITLE: Shrew LISP Project
+#+INDEX: Shrew
+
+* Resources
+- [[https://github.com/kanaka/mal/blob/master/process/guide.md#step0][MAL]]
