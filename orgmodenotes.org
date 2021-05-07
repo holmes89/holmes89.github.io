@@ -1,0 +1,10 @@
+#+TITLE: Org Mode Wiki Notes
+#+INDEX: Org Mode Wiki
+
+I was able to build this wiki using org mode and a bunch of sites to help. here are some of them
+
+- [[https://github.com/gongzhitaao/orgcss][OrgCSS]]
+- [[https://www.taingram.org/blog/org-mode-blog.html][Org Mode Blog]]
+- [[https://meganrenae21.github.io/Meg-in-Progress/posts/blogging-with-org-mode.html][Blogging With Org Mode]]
+- [[https://jgkamat.gitlab.io/blog/website1.html][Creating A Blog in Org Mode]]
+- [[https://thoughtbot.com/blog/the-many-uses-of-org-mode][The Many Uses of Org Mode]]

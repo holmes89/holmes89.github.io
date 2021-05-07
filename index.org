@@ -1,6 +1,7 @@
 #+TITLE: Personal Wiki
 
 - [[file:theindex.org][Index]]
+- [[file:orgmodenotes.org][Org Mode Wiki Notes]]
 - Distributed Systems
   - [[file:Distributed Systems/chicakree-db.org][ChickareeDB Project]]
   - [[file:Distributed Systems/dynamo-db.org][Dynamo DB]]
