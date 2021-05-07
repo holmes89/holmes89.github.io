@@ -1,4 +1,0 @@
-#+TITLE: Personal Wiki
-
-
-TEST! This is an experiment using [[https://orgmode.org][org-mode]] to help create a wiki for my thoughts, ideas, and notes.
