@@ -10,7 +10,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2 
-     
+      - uses: purcell/setup-emacs@master
+        with:
+          version: 27.1
       - name: Build
         run: |
           make build
