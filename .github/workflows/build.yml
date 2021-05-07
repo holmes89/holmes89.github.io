@@ -1,0 +1,26 @@
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '!docs/**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2 
+     
+      - name: Build
+        run: |
+          make build
+      
+      - name: Commit Changes
+        run: |
+          git config --global user.name 'Joel Holmes'
+          git config --global user.email 'holmes89@users.noreply.github.com'
+          git add docs
+          git commit -m "Generate HTML files"
+          git push
+      
