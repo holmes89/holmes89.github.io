@@ -1,6 +1,6 @@
 #+TITLE: Personal Wiki
 
 - [[file:theindex.org][Index]]
-- distributed-systems
-  - [[file:distributed-systems/chicakree-db.org][ChickareeDB Project]]
-  - [[file:distributed-systems/dynamo-db.org][Dynamo DB]]
+- Distributed Systems
+  - [[file:Distributed Systems/chicakree-db.org][ChickareeDB Project]]
+  - [[file:Distributed Systems/dynamo-db.org][Dynamo DB]]
