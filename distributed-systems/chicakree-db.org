@@ -1,6 +1,5 @@
 #+TITLE: ChickareeDB Project
 #+INDEX: Redis Clone
-#+INDEX: Distributed System
 #+INDEX: ChickareeDB
 
 * Overview of the Idea

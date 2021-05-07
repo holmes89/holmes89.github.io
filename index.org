@@ -1,6 +1,6 @@
 #+TITLE: Personal Wiki
-#+FILETAGS: :Projects:
 
-This is a collection of my notes, thoughts, and ideas
-
-#+INCLUDE: "theindex.inc"
+- [[file:theindex.org][Index]]
+- distributed-systems
+  - [[file:distributed-systems/chicakree-db.org][ChickareeDB Project]]
+  - [[file:distributed-systems/dynamo-db.org][Dynamo DB]]

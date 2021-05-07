@@ -7,6 +7,9 @@
       `(("wiki"
          :base-directory "."
          :base-extension "org"
+         :auto-sitemap t
+         :sitemap-filename "index.org"
+         :sitemap-title "Personal Wiki"
          :recursive t
          :makeindex t
          :publishing-directory "./docs"
