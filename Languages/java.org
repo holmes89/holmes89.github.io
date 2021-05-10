@@ -3,3 +3,4 @@
 
 * Links
 - [[https://jackson.sh/posts/2021-04-java-underrated/][Java is criminally underhyped]]
+- [[https://jamesward.com/2021/03/16/the-modern-java-platform-2021-edition/][The Modern Java Platform - 2021 Edition]]
