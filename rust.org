@@ -1,8 +1,0 @@
-#+TITLE: Rust Resources
-#+INDEX: Rust Resources
-
-* List of Rust Resources
-
-** Links
-** Videos
-- [[https://www.youtube.com/playlist?list=PLwtLEJr-BkXZ9PmoAlqaFdoj47o61TWrS][Learn Rust Programming]]

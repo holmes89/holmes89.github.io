@@ -1,0 +1,8 @@
+#+TITLE: Haskell
+#+INDEX: Haskell
+
+* Links
+- [[https://github.com/cohomolo-gy/haskell-resources][A List of Foundational Haskell Papers]]
+- [[http://book.realworldhaskell.org/][Real World Haskell]]
+- [[https://blog.sumtypeofway.com/posts/fast-iteration-with-haskell.html][Towards Faster Iteration in Industrial Haskell]]
+- [[https://www.poberezkin.com/posts/2021-04-21-what-i-wish-somebody-told-me-when-i-was-learning-Haskell.html][What I wish somebody told me when I was learning Haskell]] 

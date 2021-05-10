@@ -1,0 +1,9 @@
+#+TITLE: WASM
+#+INDEX: WASM
+
+* Resources
+- [[https://thenewstack.io/using-web-assembly-written-in-rust-on-the-server-side/][Using Web Assembly Written in Rust on the Server-Side]]
+
+* Ideas
+- I want to be able to use this for portability
+- Edge computing

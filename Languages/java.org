@@ -1,0 +1,5 @@
+#+TITLE: Java
+#+INDEX: Java
+
+* Links
+- [[https://jackson.sh/posts/2021-04-java-underrated/][Java is criminally underhyped]]
