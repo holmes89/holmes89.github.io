@@ -1,7 +1,32 @@
 #+TITLE: Personal Wiki
 
+- [[file:bazel.org][Bazel]]
+- [[file:chess.org][Chess Programming]]
+- [[file:History.org][History]]
 - [[file:theindex.org][Index]]
 - [[file:orgmodenotes.org][Org Mode Wiki Notes]]
+- [[file:papers.org][Papers To Read]]
+- [[file:shrew.org][Shrew LISP Project]]
+- Book
+  - [[file:Book/resources.org][Book Resourcs]]
+  - [[file:Book/illustration-tools.org][Illustration Tools]]
 - Distributed Systems
   - [[file:Distributed Systems/chicakree-db.org][ChickareeDB Project]]
   - [[file:Distributed Systems/dynamo-db.org][Dynamo DB]]
+- Languages
+  - [[file:Languages/go.org][Go Resources]]
+  - [[file:Languages/haskell.org][Haskell]]
+  - [[file:Languages/java.org][Java]]
+  - [[file:Languages/rust.org][Rust Resources]]
+- Technologies
+  - [[file:Technologies/BigData.org][Big Data Resources]]
+  - [[file:Technologies/Database.org][Databases]]
+  - [[file:Technologies/Design.org][Design]]
+  - [[file:Technologies/IOT.org][IOT Research]]
+  - [[file:Technologies/OS.org][Operating Systems]]
+  - [[file:Technologies/ToTry.org][Technologies to Investigate]]
+  - [[file:Technologies/WASM.org][WASM]]
+- To Read
+  - [[file:To Read/tech-books.org][Tech Books to Read]]
+- To Watch
+  - [[file:To Watch/documentaries.org][Documentaries to Watch]]

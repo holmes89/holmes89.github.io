@@ -1,0 +1,13 @@
+#+TITLE: Go Resources
+#+INDEX: Go Resources
+
+* Structure
+- [[https://www.gobeyond.dev/wtf-dial/][WTF Dial]]
+  - [[https://github.com/benbjohnson/wtf][Source]]
+- [[https://github.com/golang-standards/project-layout/issues/117][Project Layout Discussion]]
+
+* Simulation
+- [[https://ggcarvalho.dev/posts/montecarlo/][The art of solving problems with Monte Carlo simulations]]
+
+* UI 
+- [[https://ebitenui.github.io/][Ebiten UI]]
