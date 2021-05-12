@@ -1,0 +1,4 @@
+#+TITLE: Design
+#+INDEX: Design
+
+- [[https://sashamaps.net/docs/resources/20-colors/][Color Blind Colors]]

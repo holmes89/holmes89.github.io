@@ -1,0 +1,7 @@
+#+TITLE: IOT Research
+#+INDEX: IOT
+
+* AWS Resources
+- [[https://github.com/aws-samples/aws-iot-fleet-provisioning][Fleet Provision]]
+- [[https://github.com/aws/aws-iot-device-sdk-cpp-v2][CPP SDK]]
+  - [[https://github.com/awslabs/aws-iot-device-client/blob/main/source/fleetprovisioning/FleetProvisioning.cpp][Relevant File]]

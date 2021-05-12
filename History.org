@@ -1,0 +1,5 @@
+#+TITLE: History
+#+INDEX: History
+
+* World
+- [[https://en.wikipedia.org/wiki/Pytheas][Pytheas]] - Greek who voyaged to Northwest Europe
