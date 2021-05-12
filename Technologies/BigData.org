@@ -1,0 +1,9 @@
+#+TITLE: Big Data Resources
+#+INDEX: Athena
+#+INDEX: Presto
+
+* Athena
+Query service on static files such as Parque Files. Built on Presto: [[https://aws.amazon.com/blogs/big-data/analyzing-data-in-s3-using-amazon-athena/][Link]]
+
+* Presto
+Database-like queries on multiple storage types: [[https://prestodb.io/][Link]]

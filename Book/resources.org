@@ -1,0 +1,9 @@
+#+TITLE: Book Resourcs
+
+* Articles
+- [[https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture][Org Culture]]
+- [[https://qualitysafety.bmj.com/content/qhc/13/suppl_2/ii22.full.pdf][Westrum Paper]]
+- [[https://continuousdelivery.com/][CD Book]]
+- [[https://www.martinfowler.com/articles/continuousIntegration.html][Fowler CI]]
+- [[https://martinfowler.com/bliki/FeatureToggle.html][Fowler Feature Toggle]]
+- [[https://www.branchbyabstraction.com/][Branch By Abstraction]]
