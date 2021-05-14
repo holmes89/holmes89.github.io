@@ -12,7 +12,8 @@
 
 * Front End
 - [[https://dev.to/fllstck/intro-to-yew-a-rust-frontend-framework-20hb][Intro to Yew, a Rust Frontend Framework]]
-
+- [[https://seed-rs.org/][Seed RS]]
+- [[https://blog.abor.dev/p/moonzoon][Rust on the Frontend]]
 * Operating Systems
 - [[https://dev.to/tangramvision/why-rust-for-robots-4nmd][Why Rust for Robots?]]
 
@@ -33,3 +34,5 @@
 * GRPC
 - [[https://dev.to/transienterror/setting-up-a-grpc-protobuf-server-with-tonic-218e][Setting Up a gRPC Protobuf Server with Tonic]]
 - [[https://romankudryashov.com/blog/2021/04/grpc-rust/][Introduction to gRPC in Rust]]
+* Web App
+ - [[https://dev.to/steadylearner/how-to-use-rust-warp-web-framework-2b4e][How to use Warp Framework]]
