@@ -1,0 +1,9 @@
+#+TITLE: System Architectures
+#+TITLE: System Architectures
+
+* Software Architecture Patterns
+Patterns around designing and implementing applications for resuse.
+
+** Event Driven
+** Microkernal
+Plugin based system with a single core and public API. Much like Eclipse structure. The plugins can communicate with each other.

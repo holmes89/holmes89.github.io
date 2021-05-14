@@ -1,0 +1,7 @@
+
+#+TITLE: Open Source Contributions
+
+I have contributed to the following Open Source Projects:
+
+- [[https://github.com/vmware-tanzu/carvel-vendir/pull/64][Carvel Vendir]]
+- [[https://github.com/telia-oss/sidecred/pull/58][Sidecred]]
