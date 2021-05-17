@@ -1,0 +1,6 @@
+#+TITLE: Robotics
+#+INDEX: Robotics
+
+* Cloud Robotics
+- [[https://www.researchgate.net/profile/Guoqiang-Hu-4/publication/241638237_Cloud_Robotics_Architecture_Challenges_and_Applications/links/56ce8bf908aeb52500c372e1/Cloud-Robotics-Architecture-Challenges-and-Applications.pdf][Cloud Robotics: Architecture, Challenges and Applications]]
+- [[https://arxiv.org/pdf/0903.3642.pdf][Gossip Coverage Control for Robotic Networks: Dynamical Systems on the Space of Partitions]]
