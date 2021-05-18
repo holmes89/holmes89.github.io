@@ -1,0 +1,6 @@
+#+TITLE: Lambda the Ultimate
+#+INDEX: Lambda the Ultimate
+
+- [[/static/papers/AIM-353.pdf][The Ultimate Imperative]]
+- [[/static/papers/AIM-379.pdf][The Ultimate Declarative]]
+- [[/static/papers/AIM-453.pdf][The Art of the Interpreter]]

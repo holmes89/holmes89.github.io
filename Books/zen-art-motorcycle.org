@@ -1,0 +1,17 @@
+#+TITLE: Zen and the Art of Motorcycle Maintenance
+#+INDEX: Zen and the Art of Motorcycle Maintenance
+
+* Notes
+** Chapter 1
+- "It's not the motorcycle maintenance, not the faucet. It's all of the technology they can't take."
+- People can't seem to handle or want to be involved with the technology they are using. This goes for people who avoid becoming knowledgable in a particular area. I'm not interested in learning x because I will never need to do x. Or x technology is outside of my area.
+- Developers should not impose self ignorance.
+** Chapter 2
+- After talking about inept repairmen on his motorcycle: "Why did they butcher it so? These were not people running away from technology... these were technologies themselves. They sat down to do a job and they performed it like chimpanzees. Nothing personal in it. There was no obvious reason for it."
+- Lack of interest in their work. Lack of thinking or investment in their profession.
+- Issues that were noticed:
+  - Not thinking (listening to music) "You can't really think hard about what you're doing and listen to the radio"
+  - Speed - Sloppy work for more money
+  - No identification with the job - "No saying, 'I'm a mechanic'. - No after work thinking about their work.
+  - Detachment
+- "When you want to hurry something, that means you no longer care about it and want to get on to other things"
