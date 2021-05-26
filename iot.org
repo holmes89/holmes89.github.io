@@ -1,0 +1,17 @@
+#+TITLE: IOT
+#+INDEX: IOT
+
+
+* Links
+- [[https://webthings.io/gateway/][Gateway Spec]]
+- [[https://aws.amazon.com/iot/][AWS IOT training]]
+- [[https://docs.microsoft.com/en-us/azure/iot-fundamentals/iot-introduction][Azure IOT Fundamentals]]
+- [[https://www.hivemq.com/public-mqtt-broker/][MQTT Sample Broker]]
+- [[https://www.studiotechnix.com/][Simulator]]
+* Hardware
+- [[https://beagleboard.org/pocket][Beagle Pocket]]
+- [[https://www.sparkfun.com/][SparkFun]]
+* Ideas
+** Weather Feed
+Create simple IOT device to report temperature
+- [[https://learn.sparkfun.com/tutorials/weather-meter-hookup-guide?_ga=2.92472788.838385742.1622033840-697814337.1622033840][Weather Gauge]]
