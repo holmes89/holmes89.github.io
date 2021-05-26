@@ -5,3 +5,4 @@
 - [[https://paketo.io/docs/stacks/][Paketo]]
 - [[https://devcenter.heroku.com/articles/buildpacks][Heroku]]
 - [[https://www.waypointproject.io/plugins/pack][Waypoint]]
+- [[https://cloud.google.com/blog/products/serverless/build-and-deploy-an-app-to-cloud-run-with-a-single-command][Cloud run]]
