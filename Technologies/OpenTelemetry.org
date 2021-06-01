@@ -1,0 +1,5 @@
+#+TITLE: OpenTelemetry
+#+INDEX: OpenTelemetry
+
+- [[https://aws.amazon.com/blogs/mt/distributed-tracing-aws-distro-for-opentelemetry/][Distributed Tracing using AWS Distro for OpenTelemetry]]
+- [[https://opentelemetry.io/docs/][OpenTelemetry]]

@@ -6,3 +6,9 @@
 - [[https://mtlynch.io/litestream/][How Litestream Eliminated My Database Server for $0.03/month]]
 - [[http://eradman.com/ephemeralpg/][pg_tmp(1)]]
 - [[https://github.com/krotik/eliasdb][eliasDB]]
+
+* Projects
+ Consider writing databases as some interesting projects. Working currently on a "Redis-like" db but maybe consider SQL type or Document DB
+
+- [[https://github.com/auxten/go-sqldb][Go-SQLDB]]
+- [[https://cstack.github.io/db_tutorial/][Let's build a simple database]]

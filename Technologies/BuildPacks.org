@@ -6,3 +6,5 @@
 - [[https://devcenter.heroku.com/articles/buildpacks][Heroku]]
 - [[https://www.waypointproject.io/plugins/pack][Waypoint]]
 - [[https://cloud.google.com/blog/products/serverless/build-and-deploy-an-app-to-cloud-run-with-a-single-command][Cloud run]]
+
+- [[https://dev.to/heavykenny/how-to-deploy-a-golang-app-to-heroku-5g1j][Deploy Go to Heroku Procfile]]

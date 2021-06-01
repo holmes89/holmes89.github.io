@@ -2,8 +2,9 @@
 #+INDEX: WASM
 
 * Resources
-- [[https://thenewstack.io/using-web-assembly-written-in-rust-on-the-server-side/][Using Web Assembly Written in Rust on the Server-Side]]
-
+- [[https://thenewstack.io/using-web-assembly-written-in-rust-on-the-server-side/][Using Web Assembly Written in Rust on the Server-Side]] 
+- [[https://wasmcloud.dev/app-dev/std-caps/][WASM Cloud]]
+- [[https://krustlet.dev/][Krustlet - WASM on Kubernetes]]
 * Ideas
 - I want to be able to use this for portability
 - Edge computing

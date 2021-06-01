@@ -6,3 +6,4 @@
 - [[http://book.realworldhaskell.org/][Real World Haskell]]
 - [[https://blog.sumtypeofway.com/posts/fast-iteration-with-haskell.html][Towards Faster Iteration in Industrial Haskell]]
 - [[https://www.poberezkin.com/posts/2021-04-21-what-i-wish-somebody-told-me-when-i-was-learning-Haskell.html][What I wish somebody told me when I was learning Haskell]] 
+- [[https://www.stackbuilders.com/tutorials/haskell/getting-started-with-haskell-projects-using-scotty/][Getting started with Haskel projects using Scotty]]

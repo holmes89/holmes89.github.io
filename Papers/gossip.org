@@ -1,0 +1,6 @@
+#+TITLE: Gossip Protocols
+#+INDEX: Gossip Protocols
+
+- [[https://arxiv.org/pdf/0903.3642.pdf][Gossip Coverage Control for Robotic Networks: Dynamical Systems on the Space of Partitions]]
+- [[https://www.researchgate.net/profile/Guoqiang-Hu-4/publication/241638237_Cloud_Robotics_Architecture_Challenges_and_Applications/links/56ce8bf908aeb52500c372e1/Cloud-Robotics-Architecture-Challenges-and-Applications.pdf][Cloud Robotics:Architecture, Challenges and Applications]]
+- [[https://upcommons.upc.edu/bitstream/handle/2117/114965/Monitor_ICNSC_CR_napolonia.pdf][Gossip-based Service Monitoring Platform forWireless Edge Cloud Computing]]

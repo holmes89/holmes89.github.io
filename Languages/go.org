@@ -11,3 +11,12 @@
 
 * UI 
 - [[https://ebitenui.github.io/][Ebiten UI]]
+* Testing
+- [[https://danmux.com/posts/the_cult_of_go_test/][Cult of Go Test]]
+* Plugin
+- [[https://golang.org/pkg/plugin/][Go Library]]
+- [[https://medium.com/learning-the-go-programming-language/writing-modular-go-programs-with-plugins-ec46381ee1a9][Writing Modular Go Programs with Plugins]]
+* CLI 
+- [[https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03][A simpler building block for Go CLIs]]
+* GRPC
+- [[https://rafaeleyng.github.io/grpc-load-balancing-with-grpc-go][GRPC Load Balancing]]

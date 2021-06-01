@@ -7,3 +7,4 @@
 - [[https://www.martinfowler.com/articles/continuousIntegration.html][Fowler CI]]
 - [[https://martinfowler.com/bliki/FeatureToggle.html][Fowler Feature Toggle]]
 - [[https://www.branchbyabstraction.com/][Branch By Abstraction]]
+- [[https://dev.to/heroku/deploying-to-heroku-from-github-actions-29ej][Heroku Deploy GitHub Actions]]
