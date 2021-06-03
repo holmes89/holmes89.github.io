@@ -1,0 +1,7 @@
+#+TITLE: Minikanren Implementation
+
+* Use Go to build a minikanren impl
+ - [[https://github.com/awalterschulze/gominikanren/][Example Source]]
+ - [[https://www.youtube.com/watch?v=2e8VFSSNORg][microKanren Talk]]
+   
+ Need to think of a name. Kangaroo Mouse? KM <-> MK. Help learn logic programming.
