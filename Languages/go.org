@@ -20,3 +20,5 @@
 - [[https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03][A simpler building block for Go CLIs]]
 * GRPC
 - [[https://rafaeleyng.github.io/grpc-load-balancing-with-grpc-go][GRPC Load Balancing]]
+* IOT
+- [[https://adrianhesketh.com/2019/11/04/aws-iot-with-go/][AWS IOT with Go]]

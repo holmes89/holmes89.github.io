@@ -1,0 +1,5 @@
+#+TITLE: C++
+#+INDEX: C++
+
+- [[https://medium.com/geekculture/how-to-write-a-c-micro-service-using-dynamodb-in-20-minutes-871ab725e72f][C++ With Dynamo]]
+- [[https://code.dblock.org/2020/03/06/working-with-aws-cpp-sdk-and-data-exchange.html][Another Example with AWS]]
