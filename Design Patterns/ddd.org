@@ -1,0 +1,4 @@
+#+TITLE: Domain Driven Design
+#+INDEX: Domain Driven Design
+
+- [[https://threedots.tech/post/ddd-lite-in-go-introduction/?utm_source=mini-course][Introduction to DDD Lite: When microservices in Go are not enough]]

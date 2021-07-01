@@ -1,0 +1,5 @@
+#+TITLE: Quantum Computing
+#+INDEX: Quantum Computing
+
+- [[https://github.com/redfx-quantum/strange][Strange]]
+- [[https://quantiki.org/wiki/list-qc-simulators][QC Simulators]]

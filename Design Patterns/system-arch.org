@@ -7,3 +7,6 @@ Patterns around designing and implementing applications for resuse.
 ** Event Driven
 ** Microkernal
 Plugin based system with a single core and public API. Much like Eclipse structure. The plugins can communicate with each other.
+
+** IOT
+- [[https://www.losant.com/blog/the-architecture-of-an-iot-platform-data-storage][The Architecture of an IoT Platform - Data Storage]]

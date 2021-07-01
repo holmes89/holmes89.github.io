@@ -1,0 +1,5 @@
+#+TITLE: APL
+#+INDEX: APL
+
+- [[https://en.wikipedia.org/wiki/APL_(programming_language)][APL Wiki]]
+- [[https://github.com/robpike/ivy][Ivy - Rob Pike APL Project]]

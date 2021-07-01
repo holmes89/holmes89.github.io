@@ -5,3 +5,10 @@
  - [[https://www.youtube.com/watch?v=2e8VFSSNORg][microKanren Talk]]
    
  Need to think of a name. Kangaroo Mouse? KM <-> MK. Help learn logic programming.
+
+* Datalog
+- [[https://en.wikipedia.org/wiki/Datalog][Datalog Wiki]]
+- [[https://en.wikipedia.org/wiki/Deductive_database][Deductive Database Wiki]]
+
+* Resources
+- [[/static/LogicAndDatabasesDeductiveApproach.pdf][Logic and Database: A Deductive Approach]]

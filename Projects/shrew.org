@@ -9,7 +9,7 @@
 - Better input handling for REPL, maybe use [[https://github.com/peterh/liner][Liner]] or [[https://github.com/c-bata/go-prompt][Go Prompt]]
 - History buffer 
 - Make sure compatable with Little Schemer Text
-
+- Lisp Formatter [[https://lisp-lang.org/style-guide/#indentation][Style Guide]]
 * Long Term Goal
 I want to be able to follow the "Little" Book series (Schemer, Reasoned Schemer, Prover, etc) with my own Lisp.
 

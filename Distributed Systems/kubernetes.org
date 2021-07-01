@@ -1,0 +1,4 @@
+#+TITLE: Kubernetes
+#+INDEX: Kubernetes
+
+- [[https://blog.quickbird.uk/domesticating-kubernetes-d49c178ebc41][Domesticating Kubernetes - K3s Setup]]

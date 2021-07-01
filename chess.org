@@ -16,3 +16,5 @@ Build a simple chess programming application in Go using UI library. Give abilit
 - [[https://zserge.com/posts/carnatus/][Let's Write A Tiny Chess Engine in Go]]
 - [[https://home.hccnet.nl/h.g.muller/ep.html][Move Generation: En Passant]]
 - [[https://github.com/thomasahle/sunfish/blob/master/sunfish.py][SunFish]]
+* Learning
+- [[https://getpocket.com/explore/item/how-to-get-good-at-chess][How to Get Good at Chess]]
