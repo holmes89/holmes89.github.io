@@ -2,3 +2,4 @@
 #+INDEX: Programming
 
 - [[https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems][Programming is Terrible]]
+- [[http://craftinginterpreters.com/welcome.html][Crafting Interpreters]]
