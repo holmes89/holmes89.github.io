@@ -1,0 +1,5 @@
+#+TITLE: Squeak
+#+INDEX: Squeak
+
+- [[https://blog.frankel.ch/start-rust/5/][Learning Squeak in 2020]]
+- [[https://www.youtube.com/watch?v=eGaKZBr0ga4&t=1087s][But Really, You Should Learn Smalltalk]]

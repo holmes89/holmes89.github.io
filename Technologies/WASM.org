@@ -6,7 +6,9 @@
 - [[https://wasmcloud.dev/app-dev/std-caps/][WASM Cloud]]
 - [[https://krustlet.dev/][Krustlet - WASM on Kubernetes]]
 - [[https://blog.scottlogic.com/2021/06/21/state-of-wasm.html][State of WASM]]
-- 
+- [[https://www.secondstate.io/articles/yomo-wasmedge-real-time-data-streams/][AI Inference for Real-time Data Streams with WasmEdge and YoMo]] 
+- [[https://www.infinyon.com/blog/2021/06/smartstream-filters/][Writing a WASM-based filter for application logs]]
+
 * Ideas
 - I want to be able to use this for portability
 - Edge computing

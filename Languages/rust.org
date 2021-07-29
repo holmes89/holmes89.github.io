@@ -28,7 +28,7 @@
 * Web Assembly
 - [[https://thenewstack.io/using-web-assembly-written-in-rust-on-the-server-side/][Using Web Assembly Written in Rust on the Server-Side]]
 - [[https://dev.to/seanwatters/state-management-with-webassembly-rust-5a1g][State Management With WebASsembly and Rust]]
-
+- [[https://blog.frankel.ch/start-rust/5/][Rust on the Front end]]
 * Random
 - [[https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor][Rust's Most Unrecognized Contributer]]
 - [[https://engineering.fb.com/2021/04/29/developer-tools/rust/][A brief history of Rust at Facebook]]

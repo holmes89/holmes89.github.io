@@ -1,0 +1,10 @@
+#+TITLE: Chess DB
+#+INDEX: Chess DB
+
+* Resources
+- [[https://medium.com/swlh/how-to-build-a-relational-database-from-scratch-e208061027c7][How to build a relational Database from Scratch]]
+- [[https://geekgirls.com/2011/09/databases-from-scratch-i-introduction/][Databases from scratch]]
+- [[https://cstack.github.io/db_tutorial/parts/part1.html][Let's Build a Simple Database]]
+
+* Plan
+Build a simple database to store chess games

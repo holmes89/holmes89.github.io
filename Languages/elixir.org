@@ -1,0 +1,5 @@
+#+TITLE: Elixir
+#+INDEX: Elixir
+
+* Links
+- [[https://www.works-hub.com/learn/elixir-practical-concurrency-3794f][Practical Concurrency Cookbook]]

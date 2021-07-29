@@ -6,6 +6,10 @@
 - [[https://mtlynch.io/litestream/][How Litestream Eliminated My Database Server for $0.03/month]]
 - [[http://eradman.com/ephemeralpg/][pg_tmp(1)]]
 - [[https://github.com/krotik/eliasdb][eliasDB]]
+- [[https://nakabonne.dev/posts/write-tsdb-from-scratch/][Time Series Database from Scratch]]
+- [[https://docs.janusgraph.org/][JanusGraph]]
+- [[https://arxiv.org/abs/1508.03843][Gremlin Graph Traversal Machine and Language]]
+- [[https://relistan.com/coordination-free-db-query-chunking][Coordination-free Database Query Sharding with Postgres]] 
 
 * Projects
  Consider writing databases as some interesting projects. Working currently on a "Redis-like" db but maybe consider SQL type or Document DB
