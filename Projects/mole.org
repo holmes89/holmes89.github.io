@@ -1,0 +1,8 @@
+#+TITLE: Mole
+
+* Create ML interpreter in Go
+
+* Resources
+- [[https://github.com/julianhyde/morel/blob/main/src/main/java/net/hydromatic/morel/Shell.java][Morel - Java Implementation]]
+- [[https://github.com/rhysd/gocaml][GoCaml]]
+- [[http://craftinginterpreters.com/the-lox-language.html][Crafting Interpreters]]
