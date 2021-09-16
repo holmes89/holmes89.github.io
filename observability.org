@@ -1,0 +1,4 @@
+#+TITLE: Observability
+#+INDEX: Observability
+
+- [[https://aws-observability.github.io/aws-o11y-recipes/recipes/amg-automation-tf/][AWS Terrafrom Grafana]]

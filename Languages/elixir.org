@@ -3,3 +3,4 @@
 
 * Links
 - [[https://www.works-hub.com/learn/elixir-practical-concurrency-3794f][Practical Concurrency Cookbook]]
+- [[https://fly.io/blog/better-business-intelligence-in-elixir-with-livebook/][Livebook]]

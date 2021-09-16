@@ -18,7 +18,7 @@
 - [[https://blog.abor.dev/p/moonzoon][Rust on the Frontend]]
 * Operating Systems
 - [[https://dev.to/tangramvision/why-rust-for-robots-4nmd][Why Rust for Robots?]]
-
+- [[https://www.bexxmodd.com/post/systems-programming-with-rust-1][Systems programming with Rust]]
 * OPS
 - [[https://www.fluvio.io/blog/2021/04/github-actions-best-practices/][GitHub Actions best practices for Rust projects]]
 

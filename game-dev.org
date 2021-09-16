@@ -1,0 +1,8 @@
+#+TITLE: Game Development
+#+INDEX: Game Development
+
+- [[https://www.toptal.com/webrtc/taming-webrtc-with-peerjs][Taming WebRTC with PeerJS: Making a Simple P2P Web Game]]
+- [[https://dev.to/manan30/creating-a-rudimentary-pool-table-game-using-react-three-js-and-react-three-fiber-part-1-363l][Creating a rudimentary pool table game using React, Three JS and react-three-fiber: Part 1]]
+- [[https://css-tricks.com/css-sprites/][CSS Sprites]]
+- [[https://blog.logrocket.com/making-css-animations-using-a-sprite-sheet/][Making CSS animations using a sprite sheet]]
+- [[https://sszczep.github.io/ray-casting-in-2d-game-engines/][Raycasting in 2d game engines]]

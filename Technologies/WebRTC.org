@@ -1,0 +1,10 @@
+#+TITLE: WebRTC
+#+INDEX: WebRTC
+
+- [[https://medium.com/@marslan.ali/webrtc-chat-with-react-js-5ce35f0c23a7][WebRTC chat with React.js]]
+- [[https://www.section.io/engineering-education/video-conferencing-app-with-react-node/][Video Conferencing with WebRTC]]
+- [[https://medium.com/@ramezemadaiesec/from-zero-to-fully-functional-video-conference-app-using-go-and-webrtc-the-ui-part-cf0912d246f7][From zero to fully functional video conference app using Go and webRTC (The UI part)]]
+- [[https://peerjs.com/docs.html#start][PeerJS]] 
+- [[https://blog.logrocket.com/getting-started-peerjs/][Getting Started with PeerJS]]
+- [[https://gabrieltanner.org/blog/broadcasting-ion-sfu][Building a WebRTC video and audio Broadcaster in Golang using ION-SFU, and media devices]]
+- [[https://blog.logrocket.com/creating-chat-application-with-webrtc/][Creating a chat application with WebRTC]]

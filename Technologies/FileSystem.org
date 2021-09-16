@@ -1,0 +1,5 @@
+#+TITLE: File System
+#+INDEX: File System
+
+- [[https://en.wikipedia.org/wiki/Andrew_File_System][Andrew File System]]
+- [[https://pages.cs.wisc.edu/~remzi/OSTEP/dist-afs.pdf][Andrew File System Paper]]

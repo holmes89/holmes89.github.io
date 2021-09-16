@@ -7,3 +7,5 @@ Query service on static files such as Parque Files. Built on Presto: [[https://a
 
 * Presto
 Database-like queries on multiple storage types: [[https://prestodb.io/][Link]]
+* TimeSeries
+- [[https://www.timescale.com/][Timescale]]
