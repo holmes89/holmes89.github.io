@@ -1,0 +1,7 @@
+#+TITLE: Maze Race
+
+Create a game where players run through a maze using raycasting
+
+* Resources
+    - [[https://github.com/harbdog/raycaster-go][Raycaster in Go]]
+    - [[https://lodev.org/cgtutor/raycasting.html][Raycasting Tutorial]]

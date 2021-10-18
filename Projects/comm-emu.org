@@ -1,0 +1,11 @@
+#+TITLE: WebRTC Emulator
+
+Create a site where you can play an emulator and have people watch (like Twitch). Also have the ability to do "hot seat" games where control is given to other players.
+
+* JNES
+    - [[https://github.com/holmes89/jsnes][Forked repo for JS NES emulator]]
+    - [[https://github.com/bfirsh/jsnes/pull/406/files][Save and load examples]]
+    - [[https://github.com/olahol/melody-jsnes/blob/master/server.go][Multiplayer using websockets]]
+
+* WebRTC
+    - [[https://medium.com/@ramezemadaiesec/from-zero-to-fully-functional-video-conference-app-using-go-and-webrtc-the-ui-part-cf0912d246f7][UI]]    

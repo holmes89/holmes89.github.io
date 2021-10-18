@@ -1,0 +1,10 @@
+#+TITLE: Apple Basic Interpreter/Compiler/VM?
+
+Create a BASIC interpreter. Extend to be compiled. Maybe create a VM?
+
+* Resources
+    - [[https://archive.org/details/Applesoft_BASIC_Programming_Reference_Manual_Apple_Computer][Applesoft Reference Manual]]
+    - [[https://github.com/adamdunkels/ubasic/blob/master/use-ubasic.c][Interpreter in C]]
+    - [[https://www.reddit.com/r/apple2/comments/p4nshe/best_mac_apple_2_emulator/][Apple II emulator list]]
+    - [[http://virtualii.com/][Apple II emulator]]
+    - [[https://www.landsnail.com/a2ref.htm][Programmer reference]]
