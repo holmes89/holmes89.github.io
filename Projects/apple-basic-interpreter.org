@@ -9,3 +9,7 @@ Create a BASIC interpreter. Extend to be compiled. Maybe create a VM?
     - [[http://virtualii.com/][Apple II emulator]]
     - [[https://www.landsnail.com/a2ref.htm][Programmer reference]]
     - [[https://annarchive.com/files/Basic_Computer_Games_Microcomputer_Edition.pdf][Basic Computer games]]
+    - [[https://www.apple.asimov.net/documentation/programming/basic/Apple%20II%20DOS%20%26%20Commands%20FAQ.txt][Commands]]
+    - [[https://apple2online.com/?page_id=4894][Fan Page, lots of resources]]
+    - [[https://apple2online.com/wp-content/uploads/Applesoft-Tutorial-Manual.pdf][Another Manual]]
+
