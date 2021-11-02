@@ -1,0 +1,4 @@
+#+TITLE: Programming Languages
+#+INDEX: Programming Languages
+
+- [[https://bernsteinbear.com/pl-resources/][Programming Langauges Resources]]

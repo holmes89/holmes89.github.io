@@ -6,3 +6,4 @@
 * Articles
 - [[https://research.swtch.com/hwmm][Hardware Memory Models]]
 - [[http://littleosbook.github.io/][Little OS Book]]
+- [[https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials/tree/master/00_before_we_start][Rust Raspberry Pi OS]]

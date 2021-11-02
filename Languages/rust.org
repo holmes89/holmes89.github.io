@@ -9,6 +9,7 @@
 - [[https://daveshawley.medium.com/my-journey-to-understand-rust-lang-28e4cf808b12][My journey to understand rust-lang]]
 - [[https://blog.abor.dev/p/timclicks][Routes to Discovering Rust]]
 - [[https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/][What you can't do in Rust and what to do instead]]
+- [[https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html][Rust for Ployglot Programmers]]
 ** Videos
 - [[https://www.youtube.com/playlist?list=PLwtLEJr-BkXZ9PmoAlqaFdoj47o61TWrS][Learn Rust Programming]]
 

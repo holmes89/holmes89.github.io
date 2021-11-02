@@ -12,4 +12,5 @@ Create a BASIC interpreter. Extend to be compiled. Maybe create a VM?
     - [[https://www.apple.asimov.net/documentation/programming/basic/Apple%20II%20DOS%20%26%20Commands%20FAQ.txt][Commands]]
     - [[https://apple2online.com/?page_id=4894][Fan Page, lots of resources]]
     - [[https://apple2online.com/wp-content/uploads/Applesoft-Tutorial-Manual.pdf][Another Manual]]
-
+    - [[https://codeburst.io/running-programs-on-the-apple-ii-cc183aab268][How to use an Apple ii]]
+    - [[/static/papers/Apple II DOS & Commands FAQ.txt][Apple II DOS & Commands FAQ]]

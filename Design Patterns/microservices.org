@@ -1,0 +1,4 @@
+#+TITLE: Microservices
+#+INDEX: Microservices
+
+- [[https://blog.bitsrc.io/microservices-are-dead-long-live-miniservices-40e4ccf4741][Microservices are Dead — Long Live Miniservices]]

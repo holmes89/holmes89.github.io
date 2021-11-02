@@ -1,0 +1,6 @@
+#+TITLE: DynamoDB
+#+INDEX: DynamoDB
+
+- [[https://dynobase.dev/dynamodb-aws-sam/][DynamoDB with SAM]]
+- [[https://www.trek10.com/blog/dynamodb-single-table-relational-modeling/][From relational DB to single DynamoDB table: a step-by-step exploration]]
+- [[https://www.alexdebrie.com/posts/dynamodb-partitions/][Everything you need to know about DynamoDB Partitions]]

@@ -1,0 +1,5 @@
+#+TITLE: Clojure
+#+INDEX: Clojure
+
+- [[https://convexhuman.com/graalvm-clojure.html][GraalVM-Clojure]]
+- [[https://cuddly-octo-palm-tree.com/posts/2021-10-03-monads-clojure/][Monads for Clojure programmers]]

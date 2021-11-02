@@ -4,3 +4,5 @@
 * Links
 - [[https://www.works-hub.com/learn/elixir-practical-concurrency-3794f][Practical Concurrency Cookbook]]
 - [[https://fly.io/blog/better-business-intelligence-in-elixir-with-livebook/][Livebook]]
+- [[https://github.com/rongfengliang/elixir-multi-node/blob/master/docker-compose.yml][multinode deployment]]
+- [[https://github.com/brisbane-elixir/elixir-multiple-nodes/blob/master/tutorial.md][multinode tutorial]]

@@ -1,0 +1,6 @@
+#+TITLE: AWS
+#+INDEX: AWS
+
+- [[https://github.com/cpliakas/aws-sam-golang-example/blob/master/Makefile][SAM Golang Example]]
+- [[https://github.com/aws/serverless-application-model/blob/master/versions/2016-10-31.md#api][SAM]]
+- [[https://blog.coinbase.com/grpc-to-aws-lambda-is-it-possible-4b29a9171d7f][GRPC Lambda]]

@@ -9,3 +9,4 @@
 * Resources
 
 - [[https://catonmat.net/top-100-books-part-eight][Top 100 Books (tech)]]
+- [[https://www.i-programmer.info/professional-programmer/programmers-bookshelf.html][Programmers Bookshelf]]

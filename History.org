@@ -3,3 +3,8 @@
 
 * World
 - [[https://en.wikipedia.org/wiki/Pytheas][Pytheas]] - Greek who voyaged to Northwest Europe
+
+* CS
+
+- [[https://en.wikipedia.org/wiki/David_Chaum][David Chaum]]
+- [[https://en.wikipedia.org/wiki/DigiCash][DigiCash]]

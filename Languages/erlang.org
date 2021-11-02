@@ -1,0 +1,4 @@
+#+TITLE: Erlang
+#+INDEX: Erlang
+
+- [[https://www.infoq.com/presentations/erland-scale-10000-nodes/][Scaling Erlang]]

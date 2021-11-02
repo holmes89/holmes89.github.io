@@ -4,3 +4,7 @@
 * Links
 - [[https://jackson.sh/posts/2021-04-java-underrated/][Java is criminally underhyped]]
 - [[https://jamesward.com/2021/03/16/the-modern-java-platform-2021-edition/][The Modern Java Platform - 2021 Edition]]
+- [[https://www.avanwyk.com/revisiting-java-in-2021-ii/][Revisiting Java]]
+- [[https://jamesward.com/2021/03/16/the-modern-java-platform-2021-edition/][Modern Java 2021]]
+- [[https://www.testcontainers.org/test_framework_integration/junit_4/][Test Containers]]
+- [[https://www.graalvm.org/docs/getting-started/container-images/][GraalVM]]
