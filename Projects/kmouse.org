@@ -11,4 +11,4 @@
 - [[https://en.wikipedia.org/wiki/Deductive_database][Deductive Database Wiki]]
 
 * Resources
-- [[/static/LogicAndDatabasesDeductiveApproach.pdf][Logic and Database: A Deductive Approach]]
+- [[https://holmes89.github.io/static/LogicAndDatabasesDeductiveApproach.pdf][Logic and Database: A Deductive Approach]]

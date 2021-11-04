@@ -1,9 +1,9 @@
 #+TITLE: Lambda the Ultimate
 #+INDEX: Lambda the Ultimate
 
-- [[/static/papers/AIM-353.pdf][The Ultimate Imperative]]
-- [[/static/papers/AIM-379.pdf][The Ultimate Declarative]]
-- [[/static/papers/AIM-453.pdf][The Art of the Interpreter]]
-- [[/static/papers/AIM-349.pdf][Scheme: An Interpreter for Extended Lambda Calculus]]
-- [[/static/papers/AIM-443.pdf][Lambda: The Ultimate GoTo]]
-- [[/static/papers/AITR-474.pdf][Rabbit: A Compiler for SCHEME]]
+- [[https://holmes89.github.io/static/papers/AIM-353.pdf][The Ultimate Imperative]]
+- [[https://holmes89.github.io/static/papers/AIM-379.pdf][The Ultimate Declarative]]
+- [[https://holmes89.github.io/static/papers/AIM-453.pdf][The Art of the Interpreter]]
+- [[https://holmes89.github.io/static/papers/AIM-349.pdf][Scheme: An Interpreter for Extended Lambda Calculus]]
+- [[https://holmes89.github.io/static/papers/AIM-443.pdf][Lambda: The Ultimate GoTo]]
+- [[https://holmes89.github.io/static/papers/AITR-474.pdf][Rabbit: A Compiler for SCHEME]]

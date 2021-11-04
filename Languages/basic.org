@@ -1,4 +1,4 @@
 #+TITLE: BASIC
 #+INDEX: BASIC
 
-- [[/static/papers/Basic_Computer_Games_Microcomputer_Edition.pdf][The Art of the Interpreter]]
+- [[https://holmes89.github.io/static/papers/Basic_Computer_Games_Microcomputer_Edition.pdf][The Art of the Interpreter]]
