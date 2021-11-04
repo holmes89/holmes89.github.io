@@ -1,0 +1,7 @@
+#+TITLE: Gopher
+#+INDEX: Gopher
+
+
+- [[https://en.wikipedia.org/wiki/Gopher_(protocol)][Gopher Wiki]]
+- [[https://www.minnpost.com/business/2016/08/rise-and-fall-gopher-protocol/][Rise and Fall of Gopher Protocol]]
+- [[/static/code/gopher.go][example in go]]
